@@ -1,0 +1,14 @@
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\lucca\Documents\Lucca\Repositórios\c#\Composition\Composition\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
