@@ -1,7 +1,7 @@
 # CShar-Projects
 In this repo are cointained some of my early projects created usinf C# and .NET. You can find examples of:
 
-- Inheretance
+- Inheritance
 - Class and Project Composition
 - Exception Treatment
 - Polymorphism 
